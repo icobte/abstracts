@@ -1,0 +1,29 @@
+{
+	"title": "ICOBTE2019 Abstracts",
+	"plugins":[
+		"expandable-chapters","-anchor-navigation-ex-toc","splitter","-insert-logo","-page-toc-button"
+		
+	],
+	"pluginsConfig": {
+		"anchor-navigation-ex": {
+           "associatedWithSummary":true
+        },
+        "insert-logo": {
+	      "url": "images/logo.png",
+	      "style": "background: none; max-height: 50px; min-height: 50px"
+	    },
+	    "page-toc-button": {
+	            "maxTocDepth": 2,
+	            "minTocSize": 2
+	    },
+	    "search": {
+	        "maxIndexSize": 1000000000
+	   }
+  },
+
+    "styles": {
+        "website": "styles/website.css"
+  }
+    
+
+}
