@@ -1,6 +1,6 @@
 <center><strong>Distinguishing electron donated and mediated mechanisms in the reduction of Cr(VI) by biochar</strong>
-<center>Xiaoyun Xu<sup>1</sup>, Zibo Xu<sup>1</sup>, Bin Gao<sup>2</sup>, Daniel Tsang<sup>3</sup>, Yong Sik Ok<sup>4</sup>, <strong>Xinde Cao<sup>1,*</sup></strong>
 
+<center>Xiaoyun Xu<sup>1</sup>, Zibo Xu<sup>1</sup>, Bin Gao<sup>2</sup>, Daniel Tsang<sup>3</sup>, Yong Sik Ok<sup>4</sup>, <strong>Xinde Cao<sup>1,*</sup></strong>
 
 <center><i><sup>1</sup>School of Environmental Science and Engineering, Shanghai Jiao Tong
 University, China</i>
