@@ -4,7 +4,7 @@ concentrations of gallium and thallium</strong>
 <center><strong>Zeng-Yei Hseu</strong> and Yu-Hsi Liu
 
 <center><i>Department of Agricultural Chemistry, National Taiwan University,
-Taiwan ROC</i>
+Taiwan, China</i>
 
 <center><i>zyhseu@ntu.edu.tw</i>
 
@@ -33,3 +33,4 @@ in the clay and Fe oxide fractions in the soils. Hence, we need more
 studies to evaluate their mobility and bioavailability for the
 biogeochemical processes and human health assessment by using selective
 extraction and bioassay in the future.
+

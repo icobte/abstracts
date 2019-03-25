@@ -4,7 +4,7 @@
 Harshavardhan<sup>a</sup>
 
 <center><i><sup>a</sup> Department of Agricultural Chemistry, National Taiwan University,
-Taipei, Taiwan</i>
+Taipei, Taiwan, China</i>
 
 <center><i>cyhong@ntu.edu.tw</i>
 
@@ -35,3 +35,4 @@ of Cd in above ground tissue under Cd stress. The results indicate that
 the growth of <i>T. patula</i> plants as well as Cd accumulation can be
 improved under Cd stress by enhancing the ascorbate pool in above ground
 tissue.
+

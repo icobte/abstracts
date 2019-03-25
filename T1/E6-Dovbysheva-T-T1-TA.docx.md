@@ -1,4 +1,5 @@
-<center><strong>Analysis DOVBYSHEVA, YASKO</strong>
+<center><strong>Analysis of the trace radionuclides in the soil and plants</strong>
+
 
 <center><strong>Tatjana Dovbysheva<sup>a</sup></strong>, A.O. Yasko<sup>a</sup>.
 
@@ -74,3 +75,4 @@ chemical elements
 nature-vegetative complexes it is possible to make the scheme of
 distribution of radionuclides between biogeocenosis ingredients. Soil
 solution destruction hot particles sorption a desorption.
+

@@ -2,7 +2,7 @@
 spinach</strong>
 
 <center><strong>Yu-Shan Yen<sup>a</sup></strong>, C.M. Lam<sup>b</sup> and Hung-Yu Lai <sup>a,c</sup>
-<center><i><sup>a</sup> Department of Soil and Environmental Sciences, National Chung Hsing University, Taiwan</i> 
+<center><i><sup>a</sup> Department of Soil and Environmental Sciences, National Chung Hsing University, Taiwan, China</i> 
 
 <center><i><sup>b</sup> Department of Post-Modern Agriculture, MingDao University, Taiwan, China</i> 
 
