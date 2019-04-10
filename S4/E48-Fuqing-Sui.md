@@ -12,20 +12,19 @@ Resources and Environmental Sciences, Nanjing Agricultural University, Nanjing,
 Agro-Bioresources, South China Agricultural University, Guangzhou, 510642, China
 
 <center><i>fuqingsui@163.com</i>
-
 <p style=text-align:justify>Rice (<i>Oryza sativa</i>) is a major dietary source of the toxic metal cadmium (Cd).
 Reducing Cd transfer from soil to the rice grain is important for food safety.
 Rice cultivars vary widely in their Cd accumulation, but the genetic basis for
-this variation is not fully understood. Based on field and pot experiments
-comparing 26 rice cultivars, we identified a cultivar with high grain Cd (BG367,
+this variation is not fully understood. Here, we identified a cultivar with high grain Cd (BG367,
 coded as W4) and a cultivar with low grain Cd (Huajingxian 74, coded as W0). W4
 showed a higher Cd translocation from roots to shoots than W0. Using chromosome
 single segment substitution lines derived from the two cultivars, we mapped a
 quantitative trait locus for grain Cd to a 400 kb region in chromosome 7. Using
     yeast expression assays and transgenic complementation, we identified <i>OsHMA3</i>
     as the causal gene for this locus. Compared with OsHMA3<sub>W0</sub>, OsHMA3<sub>W4</sub> has a
-deletion of 14 amino acids predicted to be in the ATP binding domain. OsHMA3W4
+deletion of 14 amino acids predicted to be in the ATP binding domain. OsHMA3<sub>W4</sub>
 showed a complete loss of transport activity for Cd in yeast assays. Taking our
     findings together, we have identified a new allele of <i>OsHMA3</i> with a total loss
 of function, resulting in greatly elevated Cd translocation to the shoots and
 grain of rice.
+
