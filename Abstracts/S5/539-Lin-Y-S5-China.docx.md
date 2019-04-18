@@ -3,7 +3,7 @@ seedling (<i>Oryza Sativa</i> L.)</strong>
 
 <center>Y.-T. Wang, N.-J. Lin and <strong>Ya-Fen Lin</strong>
 
-<center><i>Department of Agronomy, National Taiwan University, Taiwan, China</i>
+<center><i>Department of Agronomy, National Taiwan University, Chinese, Taipei</i>
 
 <center><i>yafenlin0725@ntu.edu.tw</i>
 
